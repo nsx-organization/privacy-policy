@@ -1,0 +1,75 @@
+---
+  Privacy Policy — Hydro Code
+
+  Effective date: May 17, 2026
+  Overview
+
+  Hydro Code is a personal water intake tracking app. We take your privacy seriously. This policy explains what data the app collects, how it is stored, and how it is used.
+
+  ---
+  Data We Collect
+
+  Hydro Code collects only the information you provide directly within the app:
+
+  - Profile information — age, sex, weight, height, and activity level (used to calculate your daily hydration target)
+  - Water intake logs — bottle count and volume entries with timestamps
+  - Hydration assessments — results from urine color checks, pinch tests, and prototype eye scans
+  - Photos — if you use the Eye Scan feature, a photo is captured using your device's front camera and saved to your device
+
+  ---
+  How Your Data Is Stored
+
+  All data is stored locally on your device only. Hydro Code does not operate any servers, does not connect to the internet, and does not transmit your data anywhere. Your information never leaves your device.
+
+  - App data is stored in a local SQLite database on your device
+  - Eye scan photos are saved to your device's private app storage directory
+  - No backups are sent to any cloud service by this app
+
+  ---
+  Camera Permission
+
+  Hydro Code requests access to your device's front camera solely for the prototype Eye Scan feature. The camera is accessed only when you explicitly initiate an eye scan. Photos taken are stored locally on your device and are not transmitted or shared.
+
+  ▎ Important: The Eye Scan feature is a prototype for illustrative purposes only. It does not perform real medical analysis. Results are simulated and should not be used for any health or medical decisions.
+
+  ---
+  Data Sharing
+
+  We do not sell, share, rent, or transmit your personal data to any third party — because your data never leaves your device.
+
+  ---
+  Third-Party Services
+
+  Hydro Code does not integrate with any third-party analytics, advertising, crash reporting, or tracking services.
+
+  ---
+  Data Deletion
+
+  You can delete all data stored by Hydro Code at any time:
+
+  1. Open the app
+  2. Go to Settings
+  3. Tap Reset All Data
+
+  This permanently deletes your profile, all intake logs, all assessment history, and all saved photos from your device. Uninstalling the app will also remove all locally stored data.
+
+  ---
+  Children's Privacy
+
+  Hydro Code is not directed at children under the age of 13. The app requires a minimum age of 10 during setup. We do not knowingly collect any data from children under 13.
+
+  ---
+  Changes to This Policy
+
+  If we update this privacy policy, we will revise the effective date at the top of this page. Continued use of the app after changes constitutes acceptance of the updated policy.
+
+  ---
+  Contact
+
+  If you have any questions about this privacy policy, please contact us at:
+
+  [your-email@example.com]
+
+  ---
+
+  ▎ Disclaimer: This is a template provided as a starting point. You should review it with a qualified legal professional before publishing, particularly if you plan to distribute on the App Store or Google Play, as both platforms have specific privacy policy requirements.
